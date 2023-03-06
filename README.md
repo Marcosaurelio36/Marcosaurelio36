@@ -23,7 +23,7 @@ Estarei iniciando em breve o modulo:
 
 Conecte se comigo :
 <p>
-  <a href="marcosaureliopda@gmail.com" >
+  <a href= mailto:"marcosaureliopda@gmail.com" >
    <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7t7XCamXK3IhzPwfjMsPRxz4Wt-gGUtKBBnBY0-6QQQp1Z8J2jNnlRU&usqp=CAU" /> 
   </a>
   
