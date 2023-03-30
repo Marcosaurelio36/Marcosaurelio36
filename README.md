@@ -10,7 +10,7 @@ Sou o Marcos Aurelio. Sou motoboy em transição de carreira. Sempre tive intere
 <br>
 <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
 <br> 
-Estarei iniciando em breve o modulo:
+Estou em aprendizado na linguagem de :
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
 <br>
